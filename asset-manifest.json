@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/portfolio-chrome/static/js/main.433f1261.chunk.js",
+    "main.js.map": "/portfolio-chrome/static/js/main.433f1261.chunk.js.map",
+    "runtime-main.js": "/portfolio-chrome/static/js/runtime-main.bfc55a81.js",
+    "runtime-main.js.map": "/portfolio-chrome/static/js/runtime-main.bfc55a81.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/portfolio-chrome/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.7155a72f.chunk.js": "/portfolio-chrome/static/js/2.7155a72f.chunk.js",
+    "static/js/2.7155a72f.chunk.js.map": "/portfolio-chrome/static/js/2.7155a72f.chunk.js.map",
+    "index.html": "/portfolio-chrome/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/portfolio-chrome/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.7155a72f.chunk.js.LICENSE.txt": "/portfolio-chrome/static/js/2.7155a72f.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/portfolio-chrome/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/portfolio-chrome/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/portfolio-chrome/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/_Resume.023783b7.png": "/portfolio-chrome/static/media/_Resume.023783b7.png",
+    "static/media/about-image-two.5a58d6f5.png": "/portfolio-chrome/static/media/about-image-two.5a58d6f5.png",
+    "static/media/about-lingo.6bd1c1f1.png": "/portfolio-chrome/static/media/about-lingo.6bd1c1f1.png",
+    "static/media/heroimerge.3e5f758e.png": "/portfolio-chrome/static/media/heroimerge.3e5f758e.png",
+    "static/media/projectfive.e0d9c4f4.png": "/portfolio-chrome/static/media/projectfive.e0d9c4f4.png",
+    "static/media/projectfour.5ac5143e.png": "/portfolio-chrome/static/media/projectfour.5ac5143e.png",
+    "static/media/projectone.15cb4156.png": "/portfolio-chrome/static/media/projectone.15cb4156.png",
+    "static/media/projectthree.f32ff353.png": "/portfolio-chrome/static/media/projectthree.f32ff353.png",
+    "static/media/projecttwo.edfb99cb.png": "/portfolio-chrome/static/media/projecttwo.edfb99cb.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/portfolio-chrome/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/portfolio-chrome/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfc55a81.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.7155a72f.chunk.js",
+    "static/js/main.433f1261.chunk.js"
+  ]
+}
