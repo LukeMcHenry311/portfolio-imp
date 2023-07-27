@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-imp/static/css/main.0e7d167e.css",
+    "main.js": "/portfolio-imp/static/js/main.6ce31abd.js",
+    "static/media/about--image-grah.png": "/portfolio-imp/static/media/about--image-grah.0e0b710278521cabcf6d.png",
+    "static/media/projectfour.png": "/portfolio-imp/static/media/projectfour.5ac5143ef88ff248dadd.png",
+    "static/media/heroicman.png": "/portfolio-imp/static/media/heroicman.478b16f619c0079d5001.png",
+    "static/media/about-image-two.png": "/portfolio-imp/static/media/about-image-two.5a58d6f595d5bfeb6c21.png",
+    "static/media/projectthree.png": "/portfolio-imp/static/media/projectthree.f32ff3539d29b3601a16.png",
+    "static/media/Montserrat-Bold.ttf": "/portfolio-imp/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/portfolio-imp/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/_Resume.png": "/portfolio-imp/static/media/_Resume.023783b7b19ff7cb13ee.png",
+    "static/media/RobotoMono-Regular.ttf": "/portfolio-imp/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/projectone.png": "/portfolio-imp/static/media/projectone.15cb41560b709b6f10fe.png",
+    "static/media/projectfive.png": "/portfolio-imp/static/media/projectfive.e0d9c4f427581666f36b.png",
+    "static/media/projecttwo.png": "/portfolio-imp/static/media/projecttwo.edfb99cb9910e31ad84c.png",
+    "index.html": "/portfolio-imp/index.html",
+    "static/media/scroll-down-arrow.svg": "/portfolio-imp/static/media/scroll-down-arrow.8ad25c53cf6a683760324d08f36d9b00.svg",
+    "static/media/social-media-arrow.svg": "/portfolio-imp/static/media/social-media-arrow.ecc0133cf2e7911d4b7286c107f982ec.svg",
+    "main.0e7d167e.css.map": "/portfolio-imp/static/css/main.0e7d167e.css.map",
+    "main.6ce31abd.js.map": "/portfolio-imp/static/js/main.6ce31abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e7d167e.css",
+    "static/js/main.6ce31abd.js"
+  ]
+}
