@@ -1,9 +1,9 @@
-import React from 'react';
-import styled from 'styled-components';
-import Button from './Button';
-import PText from './PText';
-import SectionTitle from './SectionTitle';
-import AboutImg from '../assets/images/about--image-grah.png';
+import React from "react";
+import styled from "styled-components";
+import Button from "./Button";
+import PText from "./PText";
+import SectionTitle from "./SectionTitle";
+import AboutImg from "../assets/images/about--image-grah.png";
 
 const AboutSectionStyle = styled.div`
   padding: 10 rem 0;
@@ -85,9 +85,9 @@ export default function AboutSection() {
             heading="about me"
           />
           <PText>
-            I am a University of boink Coding Bootcamp student from Lehi, Utah. I
-            enjoy challenging myself, and always try to improve my coding skills
-            through creative thinking.
+            I am a University of boink Coding Bootcamp student from Lehi, Utah.
+            I enjoy challenging myself, and always try to improve my coding
+            skills through creative thinking.
           </PText>
           <div className="aboutSection__buttons">
             <Button btnLink="/projects" btnText="Projects" />

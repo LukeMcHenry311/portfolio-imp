@@ -1,10 +1,10 @@
-import React from 'react';
-import styled from 'styled-components';
-import HeroImg from '../assets/images/heroicman.png';
-import Button from './Button';
-import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
-import ScrollDownArrow from '../assets/images/scroll-down-arrow.svg';
-import PText from './PText';
+import React from "react";
+import styled from "styled-components";
+import HeroImg from "../assets/images/heroicman.png";
+import Button from "./Button";
+import SocialMediaArrow from "../assets/images/social-media-arrow.svg";
+import ScrollDownArrow from "../assets/images/scroll-down-arrow.svg";
+import PText from "./PText";
 
 const HeroStyles = styled.div`
   .hero {
@@ -26,7 +26,7 @@ const HeroStyles = styled.div`
       width: 100%;
     }
     .hero__name {
-      font-family: 'Montserrat SemiBold';
+      font-family: "Montserrat SemiBold";
       font-size: 7rem;
       color: var(--white);
     }
@@ -144,8 +144,6 @@ const HeroStyles = styled.div`
   }
 `;
 
-
-
 // const ImageStyle = styled.img`
 //   width: 50vh;
 //   /* margin-left: 2vw; */
@@ -164,7 +162,7 @@ export default function HeroSection() {
             <img src={HeroImg} alt="" />
           </div>
           <div className="hero__info">
-            <PText color="#cca" fooVar='hey!1'>
+            <PText color="white">
               I am looking for a career in web development. I enjoy learning new
               things and becoming the best programmer I can be.
             </PText>
